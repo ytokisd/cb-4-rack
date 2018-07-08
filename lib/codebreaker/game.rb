@@ -23,7 +23,7 @@ class Game
 
   def game_preparations
     @code = generator
-    @attempts = 3
+    @attempts = 5
     @game_end = false
     @hint_avaliable = true
   end

@@ -2,7 +2,7 @@ require_relative 'interface.rb'
 # comment
 class Processor
   def initialize
-    @attempts = 3
+    @attempts = 5
   end
 
   include Interface
